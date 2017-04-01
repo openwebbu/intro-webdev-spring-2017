@@ -1,4 +1,4 @@
-# Open Web Introduction to Web Development Workshop - Fall 2016
+# Open Web Introduction to Web Development Workshop - Spring 2017
 
 ## Fall 2016 Updates
 * Moved reset styles to bootstrap.css
